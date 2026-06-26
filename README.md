@@ -1,6 +1,6 @@
 # Burgers' Equation Simulator
 
-A small C++ program that solves the **1D viscous Burgers' equation** with finite differences and renders the solution live using [raylib](https://www.raylib.com/). Watch a smooth sine wave steepen into a near-shock and then get smoothed out by viscosity — the canonical "baby Navier–Stokes" demo.
+A small C++ program that solves the **1D viscous Burgers' equation** with finite differences and renders the solution live using [raylib](https://www.raylib.com/). Watch a smooth sine wave steepen into a near-shock and then get smoothed out by viscosity. Hopefully built up to full navier-stokes in the future.
 
 <!-- Add a screenshot or GIF here, e.g.:
 ![Burgers' equation steepening](docs/screenshot.png)
