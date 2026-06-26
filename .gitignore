@@ -1,0 +1,13 @@
+# Compiled binaries / objects
+*.exe
+*.o
+*.obj
+
+# Build output
+build/
+
+# Editor / OS cruft
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
